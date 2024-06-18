@@ -1,3 +1,4 @@
 cortexutils
 pymisp
 future;python_version<='2.7'
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
